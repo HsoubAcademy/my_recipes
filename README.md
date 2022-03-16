@@ -8,7 +8,7 @@
 
 <h2> طريقة تشغيل الواجهات الخلفية </h2>
 <ul>
-  <li>نسخ المستودع <code>git clone https://github.com/HsoubAcademy/</code></li>
+  <li>نسخ المستودع <code>git clone https://github.com/HsoubAcademy/my_recipes</code></li>
   <li>الانتقال إلى المجلد <code>cd backend</code></li>
   <li>تنزيل حزم npm من خلال الأمر <code>npm install</code></li>
   <li>التعديل على معلومات الاتصال بقواعد البيانات في ملف .env</li>
